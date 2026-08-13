@@ -1,0 +1,13 @@
+Date,Region,Product,  Sales Rep,Units Sold,Revenue,Notes
+2024-01-03,North,Widget A,J. Smith,12,240.00,
+2024-01-04,south,Widget B,j. smith,,150.00,phone order
+2024-01-04,North,Widget A,J. Smith,12,240.00,
+2024-01-05,East,Widget C,R. Patel,8,,
+2024-01-06,North ,Widget B,K. Lee,5,75.5,
+2024-01-07,West,Widget A,R. Patel,20,400,rush order
+2024-01-07,West,widget a,R. Patel,20,400,rush order
+2024-01-08,East,Widget C,K. Lee,,220,
+2024-01-09,South,Widget B,J. Smith,7,105,
+2024-01-10,North,Widget A,K. Lee,15,300,
+2024-01-11,East,Widget C, R. Patel,9,247.5,
+2024-01-12,West,Widget B,j. smith,11,165,
